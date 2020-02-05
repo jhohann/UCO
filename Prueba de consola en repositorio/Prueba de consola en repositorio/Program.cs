@@ -11,6 +11,8 @@ namespace Prueba_de_consola_en_repositorio
         static void Main(string[] args)
         {
             Console.WriteLine("Hola Mundo");
+            Console.ReadLine();
+
         }
     }
 }
